@@ -8,6 +8,8 @@ Created on Sat Aug 23 01:16:58 2025
 import json
 import requests
 
+# url = 'http://127.0.0.1:8000/diabetes_prediction'
+
 url = 'https://4e1b25b62c8f.ngrok-free.app/diabetes_prediction'
 
 
